@@ -1,7 +1,7 @@
 @font-face {
   font-family: "AkzidGroLigOsF";
   src: local("AkzidGroLigOsF"),
-    url("./assets/font/AkzidGroLigOsF.ttf") format("opentype");
+    url(".public/assets/font/AkzidGroLigOsF.ttf") format("opentype");
   font-weight: normal;
 }
 
